@@ -11,6 +11,8 @@
 
 - 📫 Reach me at **sameeralamynwa@gmail.com**
 
+<img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="380" height="243" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sameeralamynwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameeralamynwa" height="30" width="40" /></a>

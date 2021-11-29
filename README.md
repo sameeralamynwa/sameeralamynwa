@@ -31,3 +31,6 @@
 
 ### My Github stats:
 ![Sameer's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sameeralamynwa&theme=react-dark&hide_border=true&area=true)
+
+### 😜Here's a Joke for you:
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />

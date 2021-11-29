@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeralamynwa&label=Profile%20views&color=0e75b6&style=flat" alt="sameeralamynwa" /> </p>
 
+- 🏦 I'm currently pursuing B.E. in CSE from **Thapar University**.  
+
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **machine learning and competitive programming**

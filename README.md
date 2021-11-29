@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, I'm Sameer Alam</h1>
+
 ![](https://github.com/anubhab-code/anubhab-code/blob/main/header.png)
 
-<h1 align="center">Hi 👋, I'm Sameer Alam</h1>
 <h3 align="center">A passionate competitive coder from New Delhi, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeralamynwa&label=Profile%20views&color=0e75b6&style=flat" alt="sameeralamynwa" /> </p>

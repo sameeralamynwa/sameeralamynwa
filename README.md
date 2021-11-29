@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate competitive coder from New Delhi, India.</h3>
 
-<img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="380" height="243" />
+<img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="350" height="243" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeralamynwa&label=Profile%20views&color=0e75b6&style=flat" alt="sameeralamynwa" /> </p>
 

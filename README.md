@@ -39,7 +39,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralamynwa&layout=compact&text_color=daf7dc&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=specter25&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/specter25" />
+
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=specter25&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/specter25" />
 
 ### 😜Here's a Joke for you:
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />

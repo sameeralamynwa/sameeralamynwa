@@ -37,7 +37,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sameeralamynwa&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralamynwa&layout=compact&text_color=daf7dc&bg_color=000000&width=50000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralamynwa&layout=compact&text_color=daf7dc&bg_color=000000&width=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 😜Here's a Joke for you:
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />

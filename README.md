@@ -39,5 +39,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralamynwa&layout=compact&text_color=daf7dc&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--  ![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=sameeralamynwa&show_icons=true&theme=tokyonight) --!>
+
 ### 😜Here's a Joke for you:
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />

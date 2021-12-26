@@ -2,7 +2,7 @@
 
 ![](https://github.com/anubhab-code/anubhab-code/blob/main/header.png)
 
-<h3 align="center">A passionate competitive coder from New Delhi, India.</h3>
+<h3 align="center">A passionate programmer from New Delhi, India.</h3>
 
 <img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="350" height="243" />
 

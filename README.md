@@ -10,9 +10,9 @@
 
 - 🏦 I'm currently pursuing B.E. in CSE from **Thapar University**.  
 
-- 🌱 I’m currently learning **Java**.
+- 🌱 I’m currently learning **JavaScript**.
 
-- 💬 Ask me about **machine learning and competitive programming**.
+- 💬 Ask me about **software engineering and competitive programming**.
 
 - 📫 Reach me at **sameeralamynwa@gmail.com**
 

@@ -35,10 +35,10 @@
 <table width="100%"> 
   <tr>
     <td width="50%">
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aanvikshiki&show_icons=true&locale=en" alt="aanvikshiki" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameeralamynwa&show_icons=true&locale=en" alt="sameeralamynwa" /></p>
     </td>
     <td width="40%">
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanvikshiki&show_icons=true&locale=en&layout=compact" alt="aanvikshiki" /></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameeralamynwa&show_icons=true&locale=en&layout=compact" alt="sameeralamynwa" /></p>
     </td>
   </tr>
 </table>

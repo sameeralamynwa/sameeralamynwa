@@ -6,11 +6,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="350" height="243" />
 
-- 🏦 I'm currently pursuing B.E. in CSE from **Thapar University**.  
+- 🏦 I'm currently working as a software engineer at **BYJU'S**.  
 
 - 🌱 I’m currently learning **JavaScript**.
 
-- 💬 Ask me about **software engineering and competitive programming**.
+- 💬 Ask me about **software engineering and interview preparation**.
 
 - 📫 Reach me at **sameeralamynwa@gmail.com**
 

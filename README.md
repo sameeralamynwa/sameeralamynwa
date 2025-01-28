@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sameer Alam</h1>
 
-<h3 align="center">A passionate programmer from New Delhi, India.</h3>
+<h3 align="center">Software Engineer | AI & Machine Learning Enthusiast | Aspiring Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeralamynwa&label=Profile%20views&color=0e75b6&style=flat" alt="sameeralamynwa" /> </p>
 
 <img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="350" height="243" />
 
-- 🏦 I'm currently working as a software engineer at **BYJU'S**.  
+- 🏦 I'm currently working as a Software Engineer at **Nielsen**.
 
-- 🌱 I’m currently learning **JavaScript**.
+- 🌱 I'm exploring **AI, Machine Learning, and Computer Vision**.
 
-- 💬 Ask me about **software engineering and interview preparation**.
+- 🔍 Research interests: Efficient AI systems, Video Understanding, and AI for Social Impact.
+
+- 💻 Skilled in Python, Java, and Data Structures & Algorithms.
+
+- 💬 Ask me about **Software Engineering, AI/ML, and Research Opportunities**.
 
 - 📫 Reach me at **sameeralamynwa@gmail.com**
 

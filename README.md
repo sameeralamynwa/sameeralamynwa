@@ -1,22 +1,42 @@
-<h1 align="center">Hi 👋, I'm Sameer Alam</h1>
-
+<h1 align="center">Sameer Alam</h1>
 <h3 align="center">Software Engineer | AI & Machine Learning Enthusiast | Aspiring Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeralamynwa&label=Profile%20views&color=0e75b6&style=flat" alt="sameeralamynwa" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameeralamynwa&label=Profile%20views&color=0e75b6&style=flat" alt="sameeralamynwa" />
+</p>
 
-<img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="350" height="243" />
+<div align="center">
+  
+  🏢 Software Engineer at **Nielsen**
+  
+  🔬 Exploring AI, Machine Learning, and Computer Vision
+  
+  🎯 Aiming to contribute to innovative AI research and applications
+  
+</div>
 
-- 🏦 I'm currently working as a Software Engineer at **Nielsen**.
+---
 
-- 🌱 I'm exploring **AI, Machine Learning, and Computer Vision**.
+### 🔍 Research Interests
 
-- 🔍 Research interests: Efficient AI systems, Video Understanding, and AI for Social Impact.
+- Efficient AI Systems
+- Video Understanding
+- AI for Social Impact
 
-- 💻 Skilled in Python, Java, and Data Structures & Algorithms.
+### 💻 Tech Stack
 
-- 💬 Ask me about **Software Engineering, AI/ML, and Research Opportunities**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
 
-- 📫 Reach me at **sameeralamynwa@gmail.com**
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameeralamynwa&show_icons=true&theme=radical" alt="Sameer's GitHub stats"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,7 +9,7 @@
   
   🏢 Software Engineer at **Nielsen**
   
-  🔬 Exploring AI, Machine Learning, and Computer Vision
+  🔬 Exploring AI and Machine Learning
   
   🎯 Aiming to contribute to innovative AI research and applications
   
@@ -19,9 +19,8 @@
 
 ### 🔍 Research Interests
 
-- Efficient AI Systems
-- Video Understanding
-- AI for Social Impact
+- Computational Biology
+- Computer Vision
 
 ### 💻 Tech Stack
 

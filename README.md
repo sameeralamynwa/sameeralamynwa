@@ -57,18 +57,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameeralamynwa&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralamynwa&layout=compact&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 <p align="left">

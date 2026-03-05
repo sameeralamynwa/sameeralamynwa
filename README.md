@@ -60,11 +60,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameeralamynwa&show_icons=true&theme=radical" alt="Sameer's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sameeralamynwa&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameeralamynwa&show_icons=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralamynwa&layout=compact&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
